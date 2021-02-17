@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 joe
 =======
 
 nice1 Sam.
 >>>>>>> 7d828c8f801e781fb2fc99e065cfbf6eefdb10f7
+=======
+test123123123213213
+>>>>>>> ab1bc9749e601fda20e5c291f0641793b823df2e
