@@ -1,4 +1,7 @@
+<<<<<<< HEAD
   
+=======
+>>>>>>> 2c8666dadfdea861a70f95258acb6b70669985a5
 Hello my name is Johnny LOL
 
 nice1 Sam.
