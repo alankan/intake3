@@ -1,19 +1,36 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 =======
 >>>>>>> 2c8666dadfdea861a70f95258acb6b70669985a5
 Hello my name is Johnny LOL
 =======
+=======
+>>>>>>> aee60355d9e251588410ec235759aed3478b6ab9
 2c8666dadfdea861a70f95258acb6b70669985a5
 Hello my name is Johnny LOL 
 
 Testing part 2 johnny LOL hahahahahahahahahaha
+<<<<<<< HEAD
+>>>>>>> aee60355d9e251588410ec235759aed3478b6ab9
+=======
+
+nice1 Sam.
+ 7d828c8f801e781fb2fc99e065cfbf6eefdb10f7
+
+test123123123213213
+ ab1bc9749e601fda20e5c291f0641793b823df2e
+
+
+joe joe joe 
+
 >>>>>>> aee60355d9e251588410ec235759aed3478b6ab9
 
 nice1 Sam.
  7d828c8f801e781fb2fc99e065cfbf6eefdb10f7
 
+<<<<<<< HEAD
 test123123123213213
  ab1bc9749e601fda20e5c291f0641793b823df2e
 <<<<<<< HEAD
@@ -31,6 +48,8 @@ nice1 Sam.
 =======
 =======
 
+>>>>>>> aee60355d9e251588410ec235759aed3478b6ab9
+=======
 >>>>>>> aee60355d9e251588410ec235759aed3478b6ab9
 test123123123213213
 ab1bc9749e601fda20e5c291f0641793b823df2e
