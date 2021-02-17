@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-  
-=======
->>>>>>> 2c8666dadfdea861a70f95258acb6b70669985a5
+2c8666dadfdea861a70f95258acb6b70669985a5
 Hello my name is Johnny LOL
 
 nice1 Sam.
@@ -9,14 +6,14 @@ nice1 Sam.
 
 test123123123213213
  ab1bc9749e601fda20e5c291f0641793b823df2e
-=======
+
 
 joe joe joe 
-=======
+
 
 nice1 Sam.
  7d828c8f801e781fb2fc99e065cfbf6eefdb10f7
-=======
+
 test123123123213213
 ab1bc9749e601fda20e5c291f0641793b823df2e
 672e86b90f45ac3dbb2a8594c0a86e013511f4e8
